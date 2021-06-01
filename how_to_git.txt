@@ -1,0 +1,7 @@
+...
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git branch
+git remote add origin https://github.com/JeongYeonsu/JeongYeonsu.git
+git push -u origin main
